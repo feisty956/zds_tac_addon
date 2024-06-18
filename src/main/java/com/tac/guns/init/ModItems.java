@@ -64,7 +64,7 @@ public class ModItems
     public static final RegistryObject<Item> CZ75_AUTO = REGISTER.register("cz75_auto", () -> new TimelessPistolGunItem(properties -> properties.group(GunMod.PISTOL)));
     //public static final RegistryObject<Item> VZ61 = REGISTER.register("vz61", () -> new TimelessPistolGunItem(properties -> properties.group(GunMod.PISTOL)));
     //public static final RegistryObject<Item> QSZ92G1 = REGISTER.register("qsz92g1", () -> new TimelessPistolGunItem(properties -> properties.group(GunMod.PISTOL)));
-    //public static final RegistryObject<Item> KAR98 = REGISTER.register("kar98", () -> new TimelessOldRifleGunItem(properties -> properties.group(GunMod.SNIPER)));
+    public static final RegistryObject<Item> KAR98 = REGISTER.register("kar98", () -> new TimelessOldRifleGunItem(properties -> properties.group(GunMod.SNIPER)));
     public static final RegistryObject<Item> HK416_A5 = REGISTER.register("hk416_a5", () -> new TimelessGunItem(properties -> properties.group(GunMod.RIFLE), GunModifiers.HK416_MOD));
     public static final RegistryObject<Item> TYPE81_X = REGISTER.register("type81_x", () -> new TimelessGunItem(properties -> properties.group(GunMod.RIFLE), GunModifiers.TYPE81x_MOD));
     //public static final RegistryObject<Item> PKP_PENCHENBERG = REGISTER.register("pkp_penchenberg", () -> new TimelessGunItem(properties -> properties.group(GunMod.HEAVY_MATERIAL)));
