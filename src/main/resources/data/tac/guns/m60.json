@@ -43,7 +43,7 @@
     "life": 14
   },
   "sounds": {
-    "fire": "tac:item.m60_fire",
+    "fire": "tac:item.m60_fire_s",
     "reloadNormal": "tac:animation.m60_reload_norm",
     "reloadEmpty": "tac:animation.m60_reload_empty",
     "draw": "tac:animation.m60_draw",

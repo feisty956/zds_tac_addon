@@ -42,7 +42,7 @@
     "ricochet": true
   },
   "sounds": {
-    "fire": "tac:item.sigmcx_fire",
+    "fire": "tac:item.sigmcx_fire_s",
     "reloadNormal": "tac:animation.sig_mcx_spear_reload_norm",
     "reloadEmpty": "tac:animation.sig_mcx_spear_reload_empty",
     "draw": "tac:animation.sig_mcx_spear_draw",

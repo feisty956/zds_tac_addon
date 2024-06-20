@@ -36,7 +36,7 @@
     "life": 5
   },
   "sounds": {
-    "fire": "tac:item.fire_mosin-nagant",
+    "fire": "tac:item.mosinnagant_fire",
     "reload": "tac:item.pistol.reload",
     "cock": "tac:item.pistol.cock",
     "silencedFire": "tac:item.assault_rifle.silenced_fire"
